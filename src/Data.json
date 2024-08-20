@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name" : "Apple",
+        "img" : "apple.webp",
+        "description" : "It is a long established fact that a reader will be distracted by the readable content of a page",
+        "price": 200
+    },
+    {
+        "id":2,
+        "name": "Chiken",
+        "img": "chiken.jpg",
+        "description" : "It is a long established fact that a reader will be distracted by the readable content of a page",
+        "price": 180
+    },
+    {
+        "id":3,
+        "name": "Potato",
+        "img": "potato.jpg",
+        "description" : "It is a long established fact that a reader will be distracted by the readable content of a page",
+        "price": 60  
+    },
+    {
+        "id":4,
+        "name": "Mango",
+        "img": "mango.webp",
+        "description" : "It is a long established fact that a reader will be distracted by the readable content of a page",
+        "price": 130 
+    },
+    {
+        "id":5,
+        "name": "Fresh Beef",
+        "img": "beef.jpg",
+        "description" : "It is a long established fact that a reader will be distracted by the readable content of a page",
+        "price": 800  
+    },
+    {
+        "id":6,
+        "name": "Katol Fish",
+        "img": "katol.jpg",
+        "description" : "It is a long established fact that a reader will be distracted by the readable content of a page",
+        "price": 900
+    },
+    {
+        "id":7,
+        "name": "Golda Chingri",
+        "img": "chingri.jpg",
+        "description" : "It is a long established fact that a reader will be distracted by the readable content of a page",
+        "price": 1650
+    },
+    {
+        "id":8,
+        "name": "Onion",
+        "img": "onion.webp",
+        "description" : "It is a long established fact that a reader will be distracted by the readable content of a page",
+        "price": 110
+    },
+    {
+        "id":9,
+        "name": "Garlic",
+        "img": "garlic.jpg",
+        "description" : "It is a long established fact that a reader will be distracted by the readable content of a page",
+        "price": 200
+    },
+    {
+        "id":10,
+        "name": "Fresh Milk",
+        "img": "milk.jpg",
+        "description" : "It is a long established fact that a reader will be distracted by the readable content of a page",
+        "price": 80
+    },
+    {
+        "id":11,
+        "name": "Egg",
+        "img": "egg.webp",
+        "description" : "It is a long established fact that a reader will be distracted by the readable content of a page",
+        "price": 60
+    },
+    {
+        "id":12,
+        "name": "Banana",
+        "img": "banan.jpg",
+        "description" : "It is a long established fact that a reader will be distracted by the readable content of a page",
+        "price": 20
+    }
+]
