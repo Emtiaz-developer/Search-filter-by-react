@@ -4,7 +4,9 @@
         "name" : "Apple",
         "img" : "apple.webp",
         "description" : "It is a long established fact that a reader will be distracted by the readable content of a page",
-        "price": 200
+        "price": "৳ 200",
+        "updateprice" : "৳ 100",
+        "changval" : "-15%"
     },
     {
         "id":2,
@@ -25,7 +27,9 @@
         "name": "Mango",
         "img": "mango.webp",
         "description" : "It is a long established fact that a reader will be distracted by the readable content of a page",
-        "price": 130 
+        "price": "৳ 130",
+         "updateprice" : "৳ 91",
+        "changval" : "-30%"
     },
     {
         "id":5,
@@ -53,7 +57,9 @@
         "name": "Onion",
         "img": "onion.webp",
         "description" : "It is a long established fact that a reader will be distracted by the readable content of a page",
-        "price": 110
+        "price": "৳ 110",
+         "updateprice" : "৳ 99",
+        "changval" : "-10%"
     },
     {
         "id":9,
@@ -74,7 +80,9 @@
         "name": "Egg",
         "img": "egg.webp",
         "description" : "It is a long established fact that a reader will be distracted by the readable content of a page",
-        "price": 60
+        "price": "৳ 60",
+         "updateprice" : "৳ 57",
+        "changval" : "-5%"
     },
     {
         "id":12,
