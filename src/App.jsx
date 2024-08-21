@@ -28,7 +28,7 @@ function App() {
      <div className="w-full  flex items-center justify-center mt-5 mb-5">
     <div className="w-[80%] bg-white rounded-md shadow-md p-4">
     <div className="mb-3">
-      <input type="text" placeholder="Search your needs" onChange={(e) => setSearchTerm(e.target.value)} className="border border-slate-400 rounded-md outline-none px-3 py-2 w-full text-center" />
+      <input type="text" placeholder="Search your Products" onChange={(e) => setSearchTerm(e.target.value)} className="border border-slate-400 rounded-md outline-none px-3 py-2 w-full text-center" />
     </div>
     <div className="grid grid-cols-4 gap-4 mt-5">
     {
